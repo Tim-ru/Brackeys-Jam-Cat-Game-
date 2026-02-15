@@ -1,0 +1,42 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+
+# Asset Store tools cache (if appears)
+[Uu]nityPackageManager/
+[Pp]ackageCache/
+
+# IL2CPP / Bee
+[Bb]ee/
+Il2CppOutputProject/
+
+# IDEs
+.vs/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.pidb
+*.booproj
+*.svd
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Crash reports
+sysinfo.txt
+
+# Cursor: инструкции и правила разработки (не в репозитории)
+.cursor/
